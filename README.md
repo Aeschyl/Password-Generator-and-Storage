@@ -1,7 +1,7 @@
 # Password-Generator-and-Storage
 A very un-user friendly password generator and storage. Uses sqlite3. Completely Local.
 
-#Directions:
+# Directions:
 
 First run the file, create_table(useonlyonce).py
 
